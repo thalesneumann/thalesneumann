@@ -4,7 +4,7 @@ Meu nome é Thales Neumann, tenho 25 anos e estou estudando programação
 <br>
 - 🔭 Atualmente estou trabalhando em uma pousada como recepcionista
  <br>
-- 🌱 Enquanto isso, estou estudando HTML, CSS E Javascript
+- 🌱 Enquanto isso, estou estudando <imgsrc="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br>
 - 📫 Onde me encontrar:
 <br>

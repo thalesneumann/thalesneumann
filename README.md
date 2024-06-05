@@ -2,7 +2,7 @@
 Meu nome é Thales Neumann, tenho 25 anos e estou estudando programação
 
 <br>
-- 🔭 Atualmente estou trabalhando em uma pousada como recepcionista
+- 🔭 Atualmente estou com suporte de vendas
  <br>
 - 🌱 Enquanto isso, estou estudando HTML, CSS e Javascript
 

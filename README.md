@@ -1,5 +1,5 @@
 ### Eai pessoal 👋
-Meu nome é Thales Neumann, tenho 25 anos e estou estudando programação
+Meu nome é Thales Neumann, tenho 27 anos e estou estudando programação
 
 <br>
 - 🔭 Atualmente estou com suporte de vendas
